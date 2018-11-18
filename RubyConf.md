@@ -402,9 +402,3 @@
 ### Resources for being part of the ruby conference
 - ruby for good
 - annie cannons
-
-
-
-
-
--
